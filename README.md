@@ -1,1 +1,1 @@
-# CapstoneII
+# AINovelChemStruc
